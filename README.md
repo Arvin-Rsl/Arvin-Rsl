@@ -16,7 +16,7 @@ A budgeting app I'm building for my own day-to-day use. I'm currently using the 
 **Roguelike Game** · *C*
 
 A terminal-based roguelike I built in C a while back. It needs some cleanup and refinement, but it's a project I still want to revisit.
-🔗 [Repository]
+🔗 [Rogue](https://github.com/Arvin-Rsl/Rogue)
 
 ---
 
