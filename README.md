@@ -10,18 +10,16 @@ I'm a first-year at UBC studying computer science and physics, planning to work 
 
 **Personal Budget Tracker** · *Dart / Flutter*
 
-A budgeting app I'm building from the ground up for my own day-to-day use. I'm currently working on features like dynamic categories, predicted vs. confirmed expenses, and carrying budgets between months.
-
+A budgeting app I'm building for my own day-to-day use. I'm currently using the first release and coming up with new features and improvements as I go, which I add to the TODO list for the second release.
 🔗 [Repository]
 
 **Roguelike Game** · *C*
 
 A terminal-based roguelike I built in C a while back. It needs some cleanup and refinement, but it's a project I still want to revisit.
-
 🔗 [Repository]
 
 ---
 
 **⚡ Outside of Code**
 
-When I'm not coding, you'll probably find me exploring the outdoors with friends.
+When I'm not coding, you'll probably find me exploring the outdoors with friends. ⛺
