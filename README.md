@@ -11,7 +11,7 @@ I'm a first-year at UBC studying computer science and physics, planning to work 
 **Personal Budget Tracker** · *Dart / Flutter*
 
 A budgeting app I'm building for my own day-to-day use. I'm currently using the first release and coming up with new features and improvements as I go, which I add to the TODO list for the second release.
-🔗 (https://github.com/Arvin-Rsl/personal-budget-tracker)[personal-budget-tracker]
+🔗 [personal-budget-tracker](https://github.com/Arvin-Rsl/personal-budget-tracker)
 
 **Roguelike Game** · *C*
 
